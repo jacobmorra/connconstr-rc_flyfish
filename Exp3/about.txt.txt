@@ -1,0 +1,5 @@
+Important files:
+- Dynamics_Fly explores the prediction dynamics of the fly network for increasing rho values.
+- Dynamics_Random explores these same dynamics for the random network, for increasing rho.
+- Compare_Params varies the spectral radius, rho, and the leaking rate, gamma, and compares models.
+- Compare_Models is our baseline code for determining the multifunctionality count for each model.

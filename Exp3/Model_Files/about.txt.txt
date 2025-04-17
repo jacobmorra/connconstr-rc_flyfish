@@ -1,0 +1,3 @@
+Important notes for this section:
+
+- LHRdiag_wtol50.npy is the weight matrix file used for the fly-constrained model.
