@@ -5,3 +5,7 @@ We build connectome-constrained models using fruit fly and zebrafish neural netw
 Each folder corresponds to an experiment from the paper. For example, 3.1 is the code for experiment 1.
 
 For any questions, please contact jacob.morra@duke.edu
+
+## Important Files
+-Wnorm.csv is the result of querying Janelia's EM hemibrain. This is the connectome first used in experiment 1.
+
