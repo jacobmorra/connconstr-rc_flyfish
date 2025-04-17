@@ -19,9 +19,5 @@ Before you start...
 2) Install Jupyter Notebook: https://jupyter.org/install or Jupyter Lab.
 3) Open Jupyter Notebook in the appropriate directory, or move into it.
 4) Install additional dependencies if needed (you can use pip): 
-- "dill" -> https://pypi.org/project/dill/
-- "progressbar" -> https://pypi.org/project/progressbar/
-- "networkx" -> https://pypi.org/project/networkx/
-- "pickle" -> https://pypi.org/project/pickle5/
 
 For any questions, please contact jacob.morra@duke.edu
