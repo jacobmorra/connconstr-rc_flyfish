@@ -1,0 +1,6 @@
+Dependencies:
+
+- the MaMI dataset is available at https://research.vu.nl/en/datasets/mami-dataset-2
+- If you wish to compare the connectome-constrained datasets, please install locally.
+- We use a subset of these networks, and only use the 300-neuron folder.
+- To compare different connectomes, run this code as I have for Baboon4 vs Baboon 5.
